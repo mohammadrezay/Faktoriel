@@ -1,4 +1,4 @@
-# Faktoriel
+# Faktoriel.php
 https://quera.org/problemset/589
 <?php
 $number = readline(" enter a number: ");
